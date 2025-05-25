@@ -14,6 +14,5 @@ This project applies Marketing Mix Modeling (MMM) to simulate how marketing spen
 - `03_Data/` – Raw and processed datasets  
 - `04_Output/` – Final results and exported visualizations  
 - `06_Presentation/` – Final presentation slides
-
 ---
 
